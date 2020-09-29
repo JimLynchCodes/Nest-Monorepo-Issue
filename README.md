@@ -29,3 +29,7 @@ nest start my-msvc-1
 ```
 
 
+## Notice how ONLY the code in "main" is being run and NOT the code from my-msvc-1 project 
+
+😥
+
